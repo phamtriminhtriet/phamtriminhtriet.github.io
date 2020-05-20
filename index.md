@@ -7,4 +7,4 @@ Master's Student in the department of [CSSE at Concordia University](https://www
 
 
 <h4 id="conference">Conference Paper</h4>
-<p><a href="https://conf.researchr.org/home/icpc-2020"><strong>ICPC 2020</strong></a>&emsp;The Secret Life of Commented-Out Source Code. <strong>Tri Minh Triet Pham</strong>, Jinqiu Yang. <small><em>To appear in the proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC), 2020. </em>Acceptance Rate: 38% (32/84).</small> [PDF]
+<p><a href="https://conf.researchr.org/home/icpc-2020"><strong>ICPC 2020</strong></a>&emsp;The Secret Life of Commented-Out Source Code. <strong>Tri Minh Triet Pham</strong>, Jinqiu Yang. <small><em>To appear in the proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC), 2020. </em>(11 pages) Acceptance Rate: 38% (32/84).</small> [PDF]
