@@ -2,12 +2,9 @@
 layout: page
 ---
 <h1 id="phamtriminhtriet">Pham, Tri Minh Triet</h1>
-<p>PhD student under the supervision of <a href="https://jinqiuyang.github.io/">Professor Jinqiu Yang</a> at Concordia University.
+<p>PhD student supervised by <a href="https://jinqiuyang.github.io/">Professor Jinqiu Yang</a> at Concordia University.
 <br><a href="https://www.concordia.ca/ginacody/computer-science-software-eng.html">Computer Science and Software Engineering</a>, Concordia University, Montreal, Canada
-<br><strong>p_triet at encs dot concordia dot ca</strong>
-<br><a href="https://www.linkedin.com/in/phamtriminhtriet/">LinkedIn</a>
-
-<!-- <h3 id="conference">Conference Papers</h3> -->
+<br><strong>p_triet at encs dot concordia dot ca</strong> <a href="https://www.linkedin.com/in/phamtriminhtriet/">@LinkedIn</a> <a href="https://scholar.google.ca/citations?user=diuBADEAAAAJ&hl=en">@Google Scholar</a>
 
 
 <h3 id="conference">Conference Papers</h3>
