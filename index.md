@@ -11,7 +11,7 @@ layout: page
 
 <h3 id="conference">Publications</h3>
 
-<p><a href="https://conf.researchr.org/details/ase-2025/ase-2025-papers/182/ADPerf-Investigating-and-Testing-Performance-in-Autonomous-Driving-Systems"><strong>ASE 2025</strong></a>&emsp;On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving. <strong>Tri Minh Triet Pham</strong>, Diego Elias Costa, Weiyi Shang, Jinqiu Yang.
+<p><a href="https://conf.researchr.org/details/ase-2025/ase-2025-papers/182/ADPerf-Investigating-and-Testing-Performance-in-Autonomous-Driving-Systems"><strong>ASE 2025</strong></a>&emsp;ADPerf: Investigating and Testing Performance in Autonomous Driving Systems. <strong>Tri Minh Triet Pham</strong>, Diego Elias Costa, Weiyi Shang, Jinqiu Yang.
 <br><small><em>In the proceedings of 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025. </em>
 <br> 13 pages</small>
 <br><a href="https://arxiv.org/abs/2510.13078">Pre-Print</a>
