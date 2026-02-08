@@ -2,9 +2,10 @@
 layout: page
 ---
 <h1 id="phamtriminhtriet">Pham, Tri Minh Triet</h1>
-<p>PhD student - Supervisor <a href="https://jinqiuyang.github.io/">Dr. Jinqiu Yang</a>
-<br><a href="https://www.concordia.ca/ginacody/computer-science-software-eng.html">Computer Science and Software Engineering</a>, Concordia University, Montreal, Canada
-<br><strong>p_triet at encs dot concordia dot ca</strong> <a href="https://www.linkedin.com/in/phamtriminhtriet/">@LinkedIn</a> <a href="https://scholar.google.ca/citations?user=diuBADEAAAAJ&hl=en">@Google Scholar</a>
+<p> 
+  <!-- Incoming CIFAR AI Safety Postdoctoral Fellow @ <a href="https://mila.quebec/">Mila</a> - Supervisor <a href="https://khomh.net/">Dr. Foutse Khomh</a> -->
+<br>PhD Candidate @ <a href="https://www.concordia.ca/">Concordia University</a>, Montreal, Canada  - Supervisor <a href="https://jinqiuyang.github.io/">Dr. Jinqiu Yang</a> | Visiting Researcher @ Polytechnique Montréal & Mila - Supervisor Dr. Foutse Khomh
+<br><strong>p_triet at encs dot concordia dot ca</strong> | <a href="https://www.linkedin.com/in/phamtriminhtriet/">LinkedIn</a> | <a href="https://scholar.google.ca/citations?user=diuBADEAAAAJ">Google Scholar</a>
 
 <p><strong>Research interests: </strong>
 <br>quality assurance of machine learning systems, intelligent cyber-physical systems, IoT systems and the broad aread where artificial intelligence, software engineering, and embedded systems intersects
