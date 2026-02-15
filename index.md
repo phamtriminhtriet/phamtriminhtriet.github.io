@@ -36,8 +36,8 @@ layout: page
 
 <p><a href="https://icsme2020.github.io/index.html"><strong>ICSME 2020</strong></a>&emsp;<a href="papers/icsme20-lb.pdf">Exploring Bluetooth Communication Protocols in Internet-of-Things Software Development</a>. <strong>Tri Minh Triet Pham</strong>, Jinqiu Yang.
 <br><small><em>In the proceedings of the 36th IEEE International Conference on Software Maintenance and Evolution - Late Breaking Ideas (ICSME), 2020. </em>
-<br> 2 pages</small>
-<br><a href="papers/icsme20-lb.pdf">Pre-Print</a>
+<br>2 pages</small>
+<!-- <br><a href="papers/icsme20-lb.pdf">Pre-Print</a> -->
 
 <p><a href="https://conf.researchr.org/home/icpc-2020"><strong>ICPC 2020</strong></a>&emsp;<a href="papers/icpc20.pdf">The Secret Life of Commented-Out Source Code</a>. <strong>Tri Minh Triet Pham</strong>, Jinqiu Yang.
 <br><small><em>In the proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC), 2020. </em>
