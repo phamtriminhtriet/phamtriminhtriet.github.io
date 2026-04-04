@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<h1 id="phamtriminhtriet">Pham, Tri Minh Triet</h1>
+<h1 id="phamtriminhtriet">Pham, Tri Minh-Triet</h1>
 <p> 
 <!-- Incoming CIFAR AI Safety Postdoctoral Fellow @ <a href="https://mila.quebec/">Mila</a> - Supervisor <a href="https://khomh.net/">Dr. Foutse Khomh</a> -->
 <!-- <br> -->
@@ -11,7 +11,7 @@ layout: page
   <a href="https://www.linkedin.com/in/phamtriminhtriet/">LinkedIn</a> | <a href="https://scholar.google.ca/citations?user=diuBADEAAAAJ">Google Scholar</a>
 
 <p><strong>Research interests: </strong>
-<br>quality assurance of ML systems, intelligent cyber-physical systems, IoT systems and the broad aread where artificial intelligence, software engineering, and embedded systems intersects
+<br>quality assurance of ML systems, intelligent cyber-physical systems, IoT systems and the broad area where artificial intelligence, software engineering, and embedded systems intersects
 
 <h3 id="conference">Publications</h3>
 
@@ -25,11 +25,15 @@ layout: page
 13 pages.</small>
 <!-- <br><a href="https://arxiv.org/abs/2408.13653">Pre-Print</a> -->
 
+<p><strong>FSE 2024</strong>&emsp;SORBET: A Framework to Evaluate the Robustness of LiDAR 3D Object Detection and Its Impacts on Autonomous Driving. <strong>Tri Minh Triet Pham</strong>, Jinqiu Yang.
+<small><em>The ACM International Conference on the Foundations of Software Engineering - Poster Track, 2024. </em>
+2 pages.</small>
+
 <p><a href="https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/31/Time-to-Retrain-Detecting-Concept-Drifts-in-Machine-Learning-Systems"><strong>ICSE 2025</strong></a>&emsp;<a href="https://arxiv.org/abs/2410.09190">Time to Retrain? Detecting Concept Drifts in Machine Learning Systems</a>. <strong>Tri Minh Triet Pham</strong>, Karthikeyan Premkumar, Mohamed Naili, Jinqiu Yang.
 <small><em>In the proceedings of the 47th International Conference on Software Engineering - Software Engineering in Practice, 2025. </em>
 12 pages.</small>
 <!-- <br><a href="https://arxiv.org/abs/2410.09190">Pre-Print</a> -->
-<br><a href="https://patents.google.com/patent/WO2025088355A1/"><strong>Patent</strong></a>
+<br><a href="https://patents.google.com/patent/WO2025088355A1/"><strong>PATENT</strong></a>
 
 <p><a href="https://arxiv.org/abs/2408.13686"><strong>arXiv</strong></a>&emsp;<a href="https://arxiv.org/abs/2408.13686">Perception-Guided Fuzzing for Simulated Scenario-Based Testing of Autonomous Driving Systems</a>. <strong>Tri Minh Triet Pham</strong>, Bo Yang, Jinqiu Yang.
 <small><em>arXiv. </em>
@@ -47,6 +51,14 @@ layout: page
 <!-- <br><a href="papers/icpc20.pdf">Pre-Print</a> -->
 
 <h3 id="services">Services</h3>
-<p>PC: FSE'26 IVR, CASCON'25 Posters Track, COMPSAC'25 SETA, MSR'21 (shadow)
+<p>PC: COMPSAC'26 SETA, FSE'26 IVR, CASCON'25 Posters Track, COMPSAC'25 SETA, MSR'21 (shadow)
 <br>Journal Reviewer: TOSEM
+
+<h3 id="teaching">Teaching</h3>
+<p>Instructor: COMP 6841 - Applied Deep Learning (Winter 2026)
+<br>TA: SOEN390 - Mini Capstone (Winter 2021), SOEN390 - Mini Capstone (Winter 2024)
+
+<h3 id="education">Education</h3>
+<p> BSc. Computer Engineering @ UIUC
+
 
