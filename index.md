@@ -3,10 +3,9 @@ layout: page
 ---
 <h1 id="phamtriminhtriet">Pham, Tri Minh-Triet (<a href="https://www.linkedin.com/in/phamtriminhtriet/">LinkedIn</a>)</h1>
 <p> 
-<!-- Incoming CIFAR AI Safety Postdoctoral Fellow @ <a href="https://mila.quebec/">Mila</a> - Supervisor <a href="https://khomh.net/">Dr. Foutse Khomh</a> -->
+CIFAR AI Safety Postdoctoral Fellow @ <a href="https://mila.quebec/">Mila</a> | <a href="https://www.polymtl.ca">PolyMTL</a> - Supervisor <a href="https://khomh.net/">Dr. Foutse Khomh</a>
 <!-- <br> -->
-  PhD Candidate @ <a href="https://www.concordia.ca/">Concordia</a> - Supervisor <a href="https://jinqiuyang.github.io/">Dr. Jinqiu Yang</a> | <br>
-  Visiting @ <a href="https://www.polymtl.ca">PolyMTL</a> - Supervisor Dr. Foutse Khomh <br>
+  <!-- Visiting @ <a href="https://www.polymtl.ca">PolyMTL</a> - Supervisor Dr. Foutse Khomh <br> -->
   <strong>p_triet at encs dot concordia dot ca</strong><br>
   <!-- <a href="https://www.linkedin.com/in/phamtriminhtriet/">LinkedIn</a> | <a href="https://scholar.google.ca/citations?user=diuBADEAAAAJ">Google Scholar</a> -->
 
@@ -59,6 +58,8 @@ layout: page
 <br>TA: SOEN390 - Mini Capstone (Winter 2021), SOEN390 - Mini Capstone (Winter 2024)
 
 <h3 id="education">Education</h3>
-<p> BSc. Computer Engineering @ UIUC
+<p>   
+    PhD from <a href="https://www.concordia.ca/">Concordia</a> - Supervisor <a href="https://jinqiuyang.github.io/">Dr. Jinqiu Yang</a> <br>
+    BSc. Computer Engineering from UIUC
 
 
